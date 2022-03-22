@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/jahoy/OneDrive/Documentos/2-Curso/2 cuatrimestre/TP2/PhysicsSimulator (1)/PhysicsSimulator/lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jahoy/OneDrive/Documentos/2-Curso/2 cuatrimestre/TP2/PhysicsSimulator (1)/PhysicsSimulator/lib/json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
